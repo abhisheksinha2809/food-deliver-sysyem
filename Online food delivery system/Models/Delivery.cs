@@ -13,9 +13,10 @@ namespace Online_food_delivery_system.Models
         public int OrderID { get; set; }
         public Order?Order { get; set; }
 
-        [Required]
         [ForeignKey("Agent")]
         public int AgentID { get; set; }
+
+        public string Status { get; set; } = string.Empty;
         public Agent?Agent { get; set; }
 
         public DateTime EstimatedTimeOfArrival { get; set; }

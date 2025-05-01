@@ -1,0 +1,709 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\models\\fooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\models\\fooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\repositories\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\repositories\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\repositories\\menuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\repositories\\menuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\services\\menuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\services\\menuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\interfaces\\imenuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\interfaces\\imenuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\interfaces\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\interfaces\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\interfaces\\imenuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\interfaces\\imenuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\interfaces\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\interfaces\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\online food delivery system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\online food delivery system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\online food delivery system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\online food delivery system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\migrations\\20250501110557_junction_table_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\migrations\\20250501110557_junction_table_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\migrations\\20250501095004_updated_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\migrations\\20250501095004_updated_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\migrations\\20250501080715_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\migrations\\20250501080715_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|c:\\users\\abhis\\source\\repos\\online-food-delivery-system\\online food delivery system\\migrations\\20250501071304_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCEAAEA-DBEC-46FA-B99D-1FDE9E83D652}|Online food delivery system\\Online food delivery system.csproj|solutionrelative:online food delivery system\\migrations\\20250501071304_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Online food delivery system\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:23:03.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Online food delivery system\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:22:20.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Online food delivery system\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:54:20.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Online food delivery system\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:55:43.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Online food delivery system\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:56:38.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Program.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Program.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Program.cs",
+              "RelativeToolTip": "Online food delivery system\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:57:29.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "Online food delivery system\\Repositories\\PaymentRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:22:09.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "Online food delivery system\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:21:55.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Interfaces\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IPaymentRepository.cs",
+              "RelativeToolTip": "Online food delivery system\\Interfaces\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:21:38.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\Payment.cs",
+              "RelativeToolTip": "Online food delivery system\\Models\\Payment.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:35:43.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\Order.cs",
+              "RelativeToolTip": "Online food delivery system\\Models\\Order.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:09:54.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoodDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\FoodDbContext.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Models\\FoodDbContext.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\FoodDbContext.cs",
+              "RelativeToolTip": "Online food delivery system\\Models\\FoodDbContext.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwv1YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:10:40.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Online food delivery system\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:34:45.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\Delivery.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Models\\Delivery.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\Delivery.cs",
+              "RelativeToolTip": "Online food delivery system\\Models\\Delivery.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:07:19.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250501110557_junction_table_added.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Migrations\\20250501110557_junction_table_added.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Migrations\\20250501110557_junction_table_added.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Migrations\\20250501110557_junction_table_added.cs",
+              "RelativeToolTip": "Online food delivery system\\Migrations\\20250501110557_junction_table_added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:05:57.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Services\\OrderService.cs",
+              "RelativeToolTip": "Online food delivery system\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:57:17.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Repositories\\MenuItemRepository.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Repositories\\MenuItemRepository.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Repositories\\MenuItemRepository.cs",
+              "RelativeToolTip": "Online food delivery system\\Repositories\\MenuItemRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAywBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:56:25.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "Online food delivery system\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:53:15.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuItemController.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Controllers\\MenuItemController.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Controllers\\MenuItemController.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Controllers\\MenuItemController.cs",
+              "RelativeToolTip": "Online food delivery system\\Controllers\\MenuItemController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAMwCgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:54:06.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Repositories\\RestaurantRepository.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Repositories\\RestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Repositories\\RestaurantRepository.cs",
+              "RelativeToolTip": "Online food delivery system\\Repositories\\RestaurantRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAywBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:56:12.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MenuItemService.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Services\\MenuItemService.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Services\\MenuItemService.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Services\\MenuItemService.cs",
+              "RelativeToolTip": "Online food delivery system\\Services\\MenuItemService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:57:05.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Services\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Services\\RestaurantService.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Services\\RestaurantService.cs",
+              "RelativeToolTip": "Online food delivery system\\Services\\RestaurantService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:56:53.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMenuItemService.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IMenuItemService.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Interfaces\\IMenuItemService.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IMenuItemService.cs",
+              "RelativeToolTip": "Online food delivery system\\Interfaces\\IMenuItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:55:33.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IRestaurantService.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Interfaces\\IRestaurantService.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IRestaurantService.cs",
+              "RelativeToolTip": "Online food delivery system\\Interfaces\\IRestaurantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:55:22.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Online food delivery system\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:55:13.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IMenuItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IMenuItemRepository.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Interfaces\\IMenuItemRepository.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IMenuItemRepository.cs",
+              "RelativeToolTip": "Online food delivery system\\Interfaces\\IMenuItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:54:56.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IRestaurantRepository.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Interfaces\\IRestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\IRestaurantRepository.cs",
+              "RelativeToolTip": "Online food delivery system\\Interfaces\\IRestaurantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:54:44.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\Customer.cs",
+              "RelativeToolTip": "Online food delivery system\\Models\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:41:35.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250501095004_updated_model.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Migrations\\20250501095004_updated_model.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Migrations\\20250501095004_updated_model.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Migrations\\20250501095004_updated_model.cs",
+              "RelativeToolTip": "Online food delivery system\\Migrations\\20250501095004_updated_model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:50:04.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\appsettings.json",
+              "RelativeDocumentMoniker": "Online food delivery system\\appsettings.json",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\appsettings.json",
+              "RelativeToolTip": "Online food delivery system\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T06:19:27.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Online food delivery system\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:23:54.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\Restaurant.cs",
+              "RelativeToolTip": "Online food delivery system\\Models\\Restaurant.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:31:07.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Online food delivery system\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:24:48.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "Online food delivery system\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:23:02.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Online food delivery system\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:21:33.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "Online food delivery system\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:22:25.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Online food delivery system.csproj",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Online food delivery system.csproj",
+              "RelativeDocumentMoniker": "Online food delivery system\\Online food delivery system.csproj",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Online food delivery system.csproj",
+              "RelativeToolTip": "Online food delivery system\\Online food delivery system.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T09:20:35.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\MenuItem.cs",
+              "RelativeToolTip": "Online food delivery system\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:09:29.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\Agent.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Models\\Agent.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Models\\Agent.cs",
+              "RelativeToolTip": "Online food delivery system\\Models\\Agent.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:10:12.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250501080715_second.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Migrations\\20250501080715_second.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Migrations\\20250501080715_second.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Migrations\\20250501080715_second.cs",
+              "RelativeToolTip": "Online food delivery system\\Migrations\\20250501080715_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:07:15.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\WeatherForecast.cs",
+              "RelativeToolTip": "Online food delivery system\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:41:50.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250501071304_first.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Migrations\\20250501071304_first.cs",
+              "RelativeDocumentMoniker": "Online food delivery system\\Migrations\\20250501071304_first.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Migrations\\20250501071304_first.cs",
+              "RelativeToolTip": "Online food delivery system\\Migrations\\20250501071304_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:13:04.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Online food delivery system.http",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Online food delivery system.http",
+              "RelativeDocumentMoniker": "Online food delivery system\\Online food delivery system.http",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\Online-food-delivery-system\\Online food delivery system\\Online food delivery system.http",
+              "RelativeToolTip": "Online food delivery system\\Online food delivery system.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-01T06:59:05.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

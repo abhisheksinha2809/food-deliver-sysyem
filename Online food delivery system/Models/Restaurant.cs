@@ -21,9 +21,6 @@ namespace Online_food_delivery_system.Models
         [Required (ErrorMessage ="Please Enter your Address")]
         public string Address { get; set; }
 
-        [Required(ErrorMessage = "Please Enter your Password")]
-        [DataType(DataType.Password)]
-        public string Password { get; set; }
 
         public List<MenuItem> MenuItems { get; set; } = new List<MenuItem>();
 

@@ -19,6 +19,7 @@ namespace Online_food_delivery_system.Models
 
 
         public string Status { get; set; }
+        public List<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
         public decimal TotalAmount { get; set; }
 
         public Payment? Payment { get; set; }

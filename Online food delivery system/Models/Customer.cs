@@ -21,11 +21,9 @@ namespace Online_food_delivery_system.Models
         [Phone]
         public string Phone { get; set; }
 
-        //[Required]
-        //[DataType(DataType.Password)]
-        //public string? Password { get; set; }
-
-        //public Order? Order { get; set; }
+        [Required(ErrorMessage = "Please Enter Your Address")]
+        public string Address { get; set; }
+        
         public List<Order> Orders { get; set; } = new List<Order>();
     }
 }

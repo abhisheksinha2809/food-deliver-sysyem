@@ -17,8 +17,10 @@ namespace Online_food_delivery_system.Models
             public DbSet<Delivery> Deliveries { get; set; }
             public DbSet<Payment> Payments { get; set; }
             public DbSet<User> Users { get; set; }
+            public DbSet<OrderItem> OrderItems { get; set; }
 
-            protected override void OnModelCreating(ModelBuilder modelBuilder)
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
             {
                 // Customer has one-to-many relationship with Orders
                 modelBuilder.Entity<Order>()
@@ -60,10 +62,19 @@ namespace Online_food_delivery_system.Models
                     .HasOne(d => d.Payment)
                     .WithOne(p => p.Delivery)
                     .HasForeignKey<Delivery>(d => d.OrderID)
-                    .OnDelete(DeleteBehavior.Restrict); // Specify OnDelete behavior
+                    .OnDelete(DeleteBehavior.Restrict);
+            // Specify OnDelete behavior
+                modelBuilder.Entity<OrderItem>()
+                .HasOne(oi => oi.Order)
+                .WithMany(o => o.OrderItems)
+                .HasForeignKey(oi => oi.OrderID);
 
-                // Define primary keys
-                modelBuilder.Entity<Customer>().HasKey(c => c.CustomerID);
+                modelBuilder.Entity<OrderItem>()
+                    .HasOne(oi => oi.MenuItem)
+                    .WithMany()
+                    .HasForeignKey(oi => oi.MenuItemID);
+            // Define primary keys
+            modelBuilder.Entity<Customer>().HasKey(c => c.CustomerID);
                 modelBuilder.Entity<Restaurant>().HasKey(r => r.RestaurantID);
                 modelBuilder.Entity<MenuItem>().HasKey(m => m.ItemID);
                 modelBuilder.Entity<Agent>().HasKey(a => a.AgentID);
